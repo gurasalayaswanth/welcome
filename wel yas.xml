@@ -1,0 +1,5 @@
+name = input("What is your name? ")
+print("Welcome, " + name + "!")
+
+What is your name? yaswanth
+Welcome, yaswanth!
